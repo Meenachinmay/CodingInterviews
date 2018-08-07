@@ -1,3 +1,7 @@
+/*
+ Aim : Print out the maximum number from the given string.
+*/
+
 #include <algorithm>
 #include <stack>
 #include <set>
